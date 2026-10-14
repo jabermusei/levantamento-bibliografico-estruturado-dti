@@ -37,6 +37,12 @@ Este arquivo documenta submissões e depósitos do levantamento em serviços ext
 - **Identidade pública do autor:** `Jaber Caetano da Silva Filho <124059040+jabermusei@users.noreply.github.com>`.
 - **Verificação:** a referência remota `refs/heads/main` coincidiu com o hash local após o envio.
 - **Conteúdo restrito:** exportações brutas, PDFs, formatos bibliográficos proprietários e evidências de interface permanecem excluídos pelas regras de `.gitignore`.
+- **Ruleset da branch principal:** `Proteção da branch principal`, estado `Active`, aplicado à branch padrão `main`.
+- **Regras ativas:** restrição de exclusão, exigência de histórico linear e bloqueio de force push.
+- **Bypass:** lista vazia.
+- **Data e hora da confirmação visual:** 2026-10-14 16:09:47 -03:00.
+- **Evidência local:** `evidencias_github/2026-10-14_github_ruleset_main_ativo.png`.
+- **SHA-256 da evidência:** `87B7F8DC7E423BCAF3EEA149D66BD5DB5319F2889A439A95F5FA2C6E7D2401F9`.
 
 ## Zenodo — integração com GitHub
 
