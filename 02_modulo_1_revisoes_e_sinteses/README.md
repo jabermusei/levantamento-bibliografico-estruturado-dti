@@ -10,4 +10,4 @@ Fluxo interno:
 4. `03_fontes_selecionadas`: decisões justificadas de corpus.
 5. `04_analise_documental`: extração e interpretação das fontes selecionadas.
 
-**Busca concluída:** `M1-SCO-001`, executada e exportada em 14/10/2026 com 111 registros; integridade verificada.
+**Buscas:** `M1-SCO-001`, executada e exportada em 14/10/2026 com 111 registros e integridade verificada; `M1-WOS-001`, executada na mesma data com 78 registros e exportação pendente.

@@ -41,3 +41,11 @@ As decisões são cumulativas. Não apagar entradas; se uma decisão for revista
 - **Decisão:** aceitar como exportação bruta oficial o arquivo `2026-10-14_M1-SCO-001_scopus_documents_csv_parte01.csv`.
 - **Verificações:** 111 registros, 45 campos, 1.589.607 bytes e SHA-256 idêntico antes e depois da cópia para a pasta oficial.
 - **Cautela:** o arquivo bruto permanece fora do GitHub por restrição de redistribuição; o inventário e o hash são públicos.
+
+## DEC-20261014-007 — Tradução da estratégia e aceite da contagem de M1-WOS-001
+
+- **Data e hora:** 2026-10-14 17:20:25 -03:00.
+- **Decisão:** aceitar a tradução dos dois blocos conceituais para `TS` e do limite temporal para `PY=(1900-2026)` na Web of Science Core Collection.
+- **Justificativa:** manter a lógica da busca `M1-SCO-001` com a sintaxe e os campos próprios da segunda base; `TS` inclui título, resumo, palavras-chave de autor e Keywords Plus, diferença que deve permanecer documentada.
+- **Evidência:** captura da página de resultados mostrando a coleção, a estratégia executada e 78 documentos.
+- **Efeito:** aceitar a contagem de 78 registros para `M1-WOS-001` e autorizar apenas sua exportação integral, sem filtros nem triagem nesta etapa.
