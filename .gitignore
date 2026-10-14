@@ -1,0 +1,35 @@
+# Exportações brutas de bases bibliográficas: preservar apenas o marcador da pasta.
+**/01_exportacoes_brutas/*
+!**/01_exportacoes_brutas/.gitkeep
+
+# Evidências de interface preservadas somente no arquivo local; hashes ficam públicos.
+01_controle/evidencias_osf/
+
+# Publicações, documentos binários e formatos bibliográficos sujeitos a licença.
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ris
+*.bib
+*.ciw
+*.enw
+*.nbib
+*.zip
+
+# Segredos e configurações locais.
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Arquivos temporários e do sistema.
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.swp
