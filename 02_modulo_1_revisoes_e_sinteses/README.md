@@ -11,3 +11,5 @@ Fluxo interno:
 5. `04_analise_documental`: extração e interpretação das fontes selecionadas.
 
 **Buscas:** `M1-SCO-001`, executada e exportada em 14/10/2026 com 111 registros; `M1-WOS-001`, executada e exportada na mesma data com 78 registros. A integridade das duas exportações foi verificada.
+
+**Deduplicação v1.0:** as 189 linhas foram combinadas; 58 pares foram confirmados e 131 registros únicos permaneceram no corpus de trabalho. As regras, contagens e verificações constam em `02_triagem_instrumental/RELATORIO_DEDUPLICACAO_v1.0.md`.

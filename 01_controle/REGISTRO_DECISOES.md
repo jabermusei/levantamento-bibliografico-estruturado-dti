@@ -63,3 +63,13 @@ As decisões são cumulativas. Não apagar entradas; se uma decisão for revista
 - **Declaração do responsável:** a busca `M1-WOS-001` foi executada em Goiânia–GO.
 - **Tratamento:** registrar o local como informação declarada posteriormente pelo responsável, sem atribuí-lo à captura da interface e sem alterar a data e hora técnica já documentada.
 - **Escopo:** esta complementação se aplica somente a `M1-WOS-001`; não permite inferir automaticamente o local de outras buscas.
+
+## DEC-20261014-010 — Deduplicação instrumental do Módulo 1
+
+- **Data e hora de conclusão:** 2026-10-14 17:46:36 -03:00.
+- **Entradas:** 111 registros de `M1-SCO-001` e 78 registros de `M1-WOS-001`, totalizando 189 linhas.
+- **Decisão:** confirmar 56 pares por DOI exato e dois pares adicionais por título normalizado, ano e sobrenome normalizado do primeiro autor, sem conflito de DOI.
+- **Resultado:** marcar 58 linhas como duplicatas e manter 131 registros no corpus único de trabalho.
+- **Controle:** todas as 189 linhas permanecem preservadas na base combinada, com grupo, regra, estado e representante; nenhum candidato residual atingiu o limiar Jaccard de título ≥ 0,90 com diferença de ano ≤ 1.
+- **Cautela:** esta operação não constitui triagem de pertinência nem seleção do corpus final.
+- **Arquivo derivado:** `2026-10-14_M1_BASE_COMBINADA_DEDUPLICADA_v1.0.xlsx`, SHA-256 `528CE6BBD88AD9E3EEBB31B73E2E185BE295337B32D8FCA6EF53C0FC01FDD7F3`.
