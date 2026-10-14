@@ -50,7 +50,8 @@ Este arquivo documenta submissões e depósitos do levantamento em serviços ext
 - **Commit da tag:** `59116ac5f2f026eb72cf43a0cd70bfcebf854b8b`.
 - **DOI Zenodo da versão 1.0:** `10.5281/zenodo.23376580`.
 - **URL DOI:** `https://doi.org/10.5281/zenodo.23376580`.
-- **DOI geral/conceitual de todas as versões:** `PENDENTE_DE_CONFIRMACAO_NA_PAGINA_DO_REGISTRO`.
+- **DOI geral/conceitual de todas as versões:** `10.5281/zenodo.23376579`.
+- **URL do DOI conceitual:** `https://doi.org/10.5281/zenodo.23376579`.
 - **Evidência local:** `evidencias_zenodo/2026-10-14_zenodo_integracao_github_ativada.png`.
 - **SHA-256 da evidência:** `FE4F5A7ECB4CD1E3EDBB2F69A281181FBEFAC4EA95731FA167BB141AE971A671`.
 - **Data e hora da confirmação visual da publicação:** 2026-10-14 15:57:23 -03:00.

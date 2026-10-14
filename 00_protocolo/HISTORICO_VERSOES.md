@@ -12,5 +12,6 @@
 - **DOI OSF:** <https://doi.org/10.17605/OSF.IO/XHKGT>
 - **Release GitHub:** <https://github.com/jabermusei/levantamento-bibliografico-estruturado-dti/releases/tag/v1.0>
 - **DOI Zenodo da versão 1.0:** <https://doi.org/10.5281/zenodo.23376580>
+- **DOI Zenodo conceitual, para todas as versões:** <https://doi.org/10.5281/zenodo.23376579>
 - **Data de registro:** 14/10/2026.
 - **Estado:** público, arquivado e imutável.
