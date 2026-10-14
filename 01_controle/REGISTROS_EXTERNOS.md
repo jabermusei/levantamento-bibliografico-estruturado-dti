@@ -37,3 +37,14 @@ Este arquivo documenta submissões e depósitos do levantamento em serviços ext
 - **Identidade pública do autor:** `Jaber Caetano da Silva Filho <124059040+jabermusei@users.noreply.github.com>`.
 - **Verificação:** a referência remota `refs/heads/main` coincidiu com o hash local após o envio.
 - **Conteúdo restrito:** exportações brutas, PDFs, formatos bibliográficos proprietários e evidências de interface permanecem excluídos pelas regras de `.gitignore`.
+
+## Zenodo — integração com GitHub
+
+- **Serviço:** Zenodo.
+- **Repositório habilitado:** `jabermusei/levantamento-bibliografico-estruturado-dti`.
+- **Data e hora da confirmação visual:** 2026-10-14 15:50:13 -03:00.
+- **Estado:** `ENABLED`, aguardando criação da release GitHub `v1.0`.
+- **Metadados controlados:** arquivo `.zenodo.json` na raiz do repositório.
+- **DOI Zenodo:** `PENDENTE` até o arquivamento da primeira release.
+- **Evidência local:** `evidencias_zenodo/2026-10-14_zenodo_integracao_github_ativada.png`.
+- **SHA-256 da evidência:** `FE4F5A7ECB4CD1E3EDBB2F69A281181FBEFAC4EA95731FA167BB141AE971A671`.

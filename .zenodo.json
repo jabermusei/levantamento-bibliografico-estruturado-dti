@@ -1,0 +1,33 @@
+{
+  "title": "Levantamento bibliográfico estruturado para construção e delimitação do corpus teórico e documental sobre Destinos Turísticos Inteligentes — Protocolo v1.0",
+  "description": "Registro auditável do protocolo v1.0 e da estrutura operacional do levantamento bibliográfico estruturado destinado à construção e delimitação do corpus teórico e documental de uma tese sobre Destinos Turísticos Inteligentes. O levantamento é prospectivo a partir de 14 de outubro de 2026, organiza-se em três módulos independentes e não constitui revisão sistemática nem resultado autônomo de revisão de literatura.",
+  "upload_type": "other",
+  "publication_date": "2026-10-14",
+  "creators": [
+    {
+      "name": "Caetano da Silva Filho, Jaber",
+      "affiliation": "Universidade Federal de Goiás (UFG)"
+    }
+  ],
+  "version": "1.0",
+  "language": "por",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Destinos Turísticos Inteligentes",
+    "Smart Tourism Destinations",
+    "Smart Tourism",
+    "levantamento bibliográfico estruturado",
+    "análise documental",
+    "China",
+    "Estados Unidos"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.17605/OSF.IO/XHKGT",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    }
+  ],
+  "notes": "Este depósito não deve ser descrito como revisão sistemática. A denominação oficial é levantamento bibliográfico estruturado para construção e delimitação do corpus teórico e documental."
+}
