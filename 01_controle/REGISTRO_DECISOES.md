@@ -49,3 +49,10 @@ As decisões são cumulativas. Não apagar entradas; se uma decisão for revista
 - **Justificativa:** manter a lógica da busca `M1-SCO-001` com a sintaxe e os campos próprios da segunda base; `TS` inclui título, resumo, palavras-chave de autor e Keywords Plus, diferença que deve permanecer documentada.
 - **Evidência:** captura da página de resultados mostrando a coleção, a estratégia executada e 78 documentos.
 - **Efeito:** aceitar a contagem de 78 registros para `M1-WOS-001` e autorizar apenas sua exportação integral, sem filtros nem triagem nesta etapa.
+
+## DEC-20261014-008 — Aceite da exportação de M1-WOS-001
+
+- **Data e hora:** 2026-10-14 17:23:42 -03:00.
+- **Decisão:** aceitar como exportação bruta oficial o arquivo `2026-10-14_M1-WOS-001_wos_core_collection_plaintext_full_record_cited_references_parte01.txt`.
+- **Verificações:** 78 registros PT/ER, 78 identificadores UT únicos, 78 resumos, 74 DOI únicos, 719.912 bytes e SHA-256 idêntico antes e depois da cópia para a pasta oficial.
+- **Cautela:** a ausência de quatro DOI não indica erro de exportação; os respectivos registros permanecem identificados por UT. O arquivo bruto permanece fora do GitHub por restrição de redistribuição.
