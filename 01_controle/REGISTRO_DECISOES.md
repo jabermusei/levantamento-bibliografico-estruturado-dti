@@ -34,3 +34,10 @@ As decisões são cumulativas. Não apagar entradas; se uma decisão for revista
 - **Evidência:** captura da página de resultados da Scopus mostrando 111 documentos e a string executada.
 - **Decisão:** aceitar a contagem de 111 registros para orientar a exportação da busca `M1-SCO-001`.
 - **Condição:** completar a exportação, o inventário e o hash antes de formular ou liberar a busca seguinte.
+
+## DEC-20261014-006 — Aceite da exportação de M1-SCO-001
+
+- **Data e hora:** 2026-10-14 16:49:17 -03:00.
+- **Decisão:** aceitar como exportação bruta oficial o arquivo `2026-10-14_M1-SCO-001_scopus_documents_csv_parte01.csv`.
+- **Verificações:** 111 registros, 45 campos, 1.589.607 bytes e SHA-256 idêntico antes e depois da cópia para a pasta oficial.
+- **Cautela:** o arquivo bruto permanece fora do GitHub por restrição de redistribuição; o inventário e o hash são públicos.

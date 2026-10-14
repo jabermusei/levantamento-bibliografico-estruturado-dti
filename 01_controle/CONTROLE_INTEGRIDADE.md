@@ -23,4 +23,8 @@ Registrar o valor integral de `Hash`, o tamanho em bytes e a data/hora da export
 
 ## Estado atual
 
-Nenhuma exportação do novo levantamento existe ou foi registrada até a abertura do protocolo v1.0.
+| ID | Arquivo | Bytes | SHA-256 | Estado |
+|---|---|---:|---|---|
+| EXP-M1-SCO-001-CSV-01 | `2026-10-14_M1-SCO-001_scopus_documents_csv_parte01.csv` | 1.589.607 | `7CE0AEBE6FECBD44B6C67DE0AFA374AB20354D767833CAB4A174EB34A6DE6A95` | VERIFICADO |
+
+O hash foi calculado no arquivo de origem e recalculado após a cópia para a pasta oficial. Os valores foram idênticos. O arquivo contém 111 registros e 45 campos.
