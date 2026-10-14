@@ -5,7 +5,8 @@
 - **Protocolo vigente:** `00_protocolo/PROTOCOLO_v1.0.md`
 - **Estado:** protocolo v1.0 publicado e arquivado no OSF em 14/10/2026; primeira busca ainda não executada.
 - **OSF Registration:** <https://osf.io/xhkgt/overview>
-**DOI:** <https://doi.org/10.17605/OSF.IO/XHKGT>
+- **DOI:** <https://doi.org/10.17605/OSF.IO/XHKGT>
+- **Repositório GitHub:** <https://github.com/jabermusei/levantamento-bibliografico-estruturado-dti>
 
 ## Regra de identidade
 

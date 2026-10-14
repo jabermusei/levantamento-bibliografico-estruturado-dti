@@ -25,3 +25,15 @@ Este arquivo documenta submissões e depósitos do levantamento em serviços ext
 - **Evidência de arquivamento público:** `evidencias_osf/2026-10-14_osf_registro_v1.0_publico_arquivado.png`.
 - **Data e hora de registro da terceira evidência:** 2026-10-14 15:21:28 -03:00.
 - **SHA-256 da terceira evidência:** `7FDBBA1375BFD1AFBF040BD1D986518520F3FA1FC29350AAF3EB8DBD7692915B`.
+
+## GitHub — repositório operacional público
+
+- **Serviço:** GitHub.
+- **URL:** `https://github.com/jabermusei/levantamento-bibliografico-estruturado-dti`.
+- **Branch principal:** `main`.
+- **Data e hora da primeira publicação verificada:** 2026-10-14 15:45:54 -03:00.
+- **Primeiro commit:** `a0bab72cef2a76d305aefd2caa6fd53a81ffb9a3`.
+- **Mensagem do primeiro commit:** `docs: registrar protocolo prospectivo v1.0`.
+- **Identidade pública do autor:** `Jaber Caetano da Silva Filho <124059040+jabermusei@users.noreply.github.com>`.
+- **Verificação:** a referência remota `refs/heads/main` coincidiu com o hash local após o envio.
+- **Conteúdo restrito:** exportações brutas, PDFs, formatos bibliográficos proprietários e evidências de interface permanecem excluídos pelas regras de `.gitignore`.
