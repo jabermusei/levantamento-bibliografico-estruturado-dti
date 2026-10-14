@@ -56,3 +56,10 @@ As decisões são cumulativas. Não apagar entradas; se uma decisão for revista
 - **Decisão:** aceitar como exportação bruta oficial o arquivo `2026-10-14_M1-WOS-001_wos_core_collection_plaintext_full_record_cited_references_parte01.txt`.
 - **Verificações:** 78 registros PT/ER, 78 identificadores UT únicos, 78 resumos, 74 DOI únicos, 719.912 bytes e SHA-256 idêntico antes e depois da cópia para a pasta oficial.
 - **Cautela:** a ausência de quatro DOI não indica erro de exportação; os respectivos registros permanecem identificados por UT. O arquivo bruto permanece fora do GitHub por restrição de redistribuição.
+
+## DEC-20261014-009 — Complementação do local de execução de M1-WOS-001
+
+- **Data e hora do registro complementar:** 2026-10-14 17:28:36 -03:00.
+- **Declaração do responsável:** a busca `M1-WOS-001` foi executada em Goiânia–GO.
+- **Tratamento:** registrar o local como informação declarada posteriormente pelo responsável, sem atribuí-lo à captura da interface e sem alterar a data e hora técnica já documentada.
+- **Escopo:** esta complementação se aplica somente a `M1-WOS-001`; não permite inferir automaticamente o local de outras buscas.
