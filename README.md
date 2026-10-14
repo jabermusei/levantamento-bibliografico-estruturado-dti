@@ -7,6 +7,8 @@
 - **OSF Registration:** <https://osf.io/xhkgt/overview>
 - **DOI:** <https://doi.org/10.17605/OSF.IO/XHKGT>
 - **Repositório GitHub:** <https://github.com/jabermusei/levantamento-bibliografico-estruturado-dti>
+- **Release GitHub v1.0:** <https://github.com/jabermusei/levantamento-bibliografico-estruturado-dti/releases/tag/v1.0>
+- **DOI Zenodo v1.0:** <https://doi.org/10.5281/zenodo.23376580>
 
 ## Regra de identidade
 

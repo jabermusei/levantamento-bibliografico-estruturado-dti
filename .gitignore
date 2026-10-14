@@ -5,6 +5,7 @@
 # Evidências de interface preservadas somente no arquivo local; hashes ficam públicos.
 01_controle/evidencias_osf/
 01_controle/evidencias_zenodo/
+01_controle/evidencias_publicacao/
 
 # Publicações, documentos binários e formatos bibliográficos sujeitos a licença.
 *.pdf

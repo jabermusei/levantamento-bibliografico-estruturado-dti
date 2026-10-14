@@ -43,8 +43,18 @@ Este arquivo documenta submissões e depósitos do levantamento em serviços ext
 - **Serviço:** Zenodo.
 - **Repositório habilitado:** `jabermusei/levantamento-bibliografico-estruturado-dti`.
 - **Data e hora da confirmação visual:** 2026-10-14 15:50:13 -03:00.
-- **Estado:** `ENABLED`, aguardando criação da release GitHub `v1.0`.
+- **Estado:** `PUBLISHED` — release GitHub `v1.0` arquivada automaticamente.
 - **Metadados controlados:** arquivo `.zenodo.json` na raiz do repositório.
-- **DOI Zenodo:** `PENDENTE` até o arquivamento da primeira release.
+- **Release GitHub:** `https://github.com/jabermusei/levantamento-bibliografico-estruturado-dti/releases/tag/v1.0`.
+- **Tag:** `v1.0`.
+- **Commit da tag:** `59116ac5f2f026eb72cf43a0cd70bfcebf854b8b`.
+- **DOI Zenodo da versão 1.0:** `10.5281/zenodo.23376580`.
+- **URL DOI:** `https://doi.org/10.5281/zenodo.23376580`.
+- **DOI geral/conceitual de todas as versões:** `PENDENTE_DE_CONFIRMACAO_NA_PAGINA_DO_REGISTRO`.
 - **Evidência local:** `evidencias_zenodo/2026-10-14_zenodo_integracao_github_ativada.png`.
 - **SHA-256 da evidência:** `FE4F5A7ECB4CD1E3EDBB2F69A281181FBEFAC4EA95731FA167BB141AE971A671`.
+- **Data e hora da confirmação visual da publicação:** 2026-10-14 15:57:23 -03:00.
+- **Evidência da release GitHub:** `evidencias_publicacao/2026-10-14_github_release_v1.0_publicada.png`.
+- **SHA-256 da evidência GitHub:** `4D0C9E779CB67F9C25E92A2DF16E45F12690BA90231C5F8EB24D112DBDF5E8D8`.
+- **Evidência da publicação Zenodo:** `evidencias_publicacao/2026-10-14_zenodo_release_v1.0_publicada.png`.
+- **SHA-256 da evidência Zenodo:** `7B8A34CCF21A723E013AB4FCB1963C7E3183E5EF38465481E9BC4B614C9666CA`.
