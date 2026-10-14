@@ -7,6 +7,7 @@
 01_controle/evidencias_zenodo/
 01_controle/evidencias_publicacao/
 01_controle/evidencias_github/
+01_controle/evidencias_buscas/
 
 # Publicações, documentos binários e formatos bibliográficos sujeitos a licença.
 *.pdf

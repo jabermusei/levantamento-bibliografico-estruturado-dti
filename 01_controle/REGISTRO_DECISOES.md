@@ -26,4 +26,11 @@ As decisões são cumulativas. Não apagar entradas; se uma decisão for revista
 - **Data e hora:** 2026-10-14 14:30:25 -03:00.
 - **Decisão:** iniciar pelo Módulo 1 na Scopus, busca `M1-SCO-001`, sem executar qualquer outra busca antes de registrar seu retorno.
 - **Justificativa:** testar primeiro o bloco conceitual e os marcadores de síntese em uma base multidisciplinar antes da tradução para outras interfaces.
-- **Estado:** aguardando execução manual e retorno do pesquisador.
+- **Estado:** executada em 14/10/2026, com 111 resultados; exportação pendente.
+
+## DEC-20261014-005 — Aceite da contagem de M1-SCO-001
+
+- **Data e hora:** 2026-10-14 16:43:32 -03:00.
+- **Evidência:** captura da página de resultados da Scopus mostrando 111 documentos e a string executada.
+- **Decisão:** aceitar a contagem de 111 registros para orientar a exportação da busca `M1-SCO-001`.
+- **Condição:** completar a exportação, o inventário e o hash antes de formular ou liberar a busca seguinte.
