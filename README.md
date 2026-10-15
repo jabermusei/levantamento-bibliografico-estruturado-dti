@@ -3,7 +3,7 @@
 - **Início prospectivo:** 14 de outubro de 2026
 - **Localização oficial:** `04_METODOLOGIA_E_CORPUS/levantamento_bibliografico_estruturado_dti_2026`
 - **Protocolo vigente:** `00_protocolo/PROTOCOLO_v1.0.md`
-- **Estado:** protocolo v1.0 publicado e arquivado; `M1-SCO-001` e `M1-WOS-001` executadas e exportadas em 14/10/2026; 189 linhas combinadas e deduplicadas em 131 registros únicos de trabalho.
+- **Estado:** protocolo v1.0 publicado e arquivado; `M1-SCO-001` e `M1-WOS-001` executadas e exportadas em 14/10/2026; 189 linhas combinadas e deduplicadas em 131 registros únicos; critérios e instrumento de triagem por título e resumo preparados em 15/10/2026, com todos os registros ainda `PENDENTE`.
 - **OSF Registration:** <https://osf.io/xhkgt/overview>
 - **DOI:** <https://doi.org/10.17605/OSF.IO/XHKGT>
 - **Repositório GitHub:** <https://github.com/jabermusei/levantamento-bibliografico-estruturado-dti>

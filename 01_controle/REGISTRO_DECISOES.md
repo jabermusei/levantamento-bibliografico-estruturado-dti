@@ -73,3 +73,14 @@ As decisões são cumulativas. Não apagar entradas; se uma decisão for revista
 - **Controle:** todas as 189 linhas permanecem preservadas na base combinada, com grupo, regra, estado e representante; nenhum candidato residual atingiu o limiar Jaccard de título ≥ 0,90 com diferença de ano ≤ 1.
 - **Cautela:** esta operação não constitui triagem de pertinência nem seleção do corpus final.
 - **Arquivo derivado:** `2026-10-14_M1_BASE_COMBINADA_DEDUPLICADA_v1.0.xlsx`, SHA-256 `528CE6BBD88AD9E3EEBB31B73E2E185BE295337B32D8FCA6EF53C0FC01FDD7F3`.
+
+## DEC-20261015-011 — Preparação da triagem por título e resumo do Módulo 1
+
+- **Data e hora de conclusão:** 2026-10-15 13:23:18 -03:00.
+- **Entrada:** 131 registros únicos da base deduplicada v1.0.
+- **Decisão:** fixar antes da avaliação os critérios operacionais, os estados de decisão e os códigos de justificativa para a triagem inicial por título e resumo.
+- **Instrumento:** criar uma planilha separada da base deduplicada, preservando a fonte e inicializando todos os 131 registros como `PENDENTE`.
+- **Controle:** nenhuma inclusão, exclusão, transferência de módulo ou nova duplicata foi pré-atribuída. Dúvidas devem permanecer `PENDENTE` e podem exigir obtenção do texto integral.
+- **Arquivo derivado:** `2026-10-15_M1_TRIAGEM_TITULO_RESUMO_v1.0.xlsx`, 110.041 bytes, SHA-256 `DE5AC25C2A9C13FF213944C7738E9EECDC95061348044A53CF7C7EF3137D1CFE`.
+- **Documento público:** `02_modulo_1_revisoes_e_sinteses/02_triagem_instrumental/CRITERIOS_TRIAGEM_M1_v1.0.md`.
+- **Cautela:** esta etapa organiza a avaliação e não constitui seleção analítica definitiva nem revisão sistemática.
