@@ -23,3 +23,12 @@ O número 1.1 identifica a versão do repositório e do depósito de execução,
 - **DOI Zenodo conceitual, para todas as versões:** <https://doi.org/10.5281/zenodo.23376579>
 - **Data de registro:** 14/10/2026.
 - **Estado:** público, arquivado e imutável.
+
+## Depósito do marco de execução 1.1
+
+- **Release GitHub:** <https://github.com/jabermusei/levantamento-bibliografico-estruturado-dti/releases/tag/v1.1>
+- **Commit arquivado:** `62fbecdd5da53b9b8fa8ba0e7bf2d75919985ac0`.
+- **DOI Zenodo da versão 1.1:** <https://doi.org/10.5281/zenodo.23813425>
+- **DOI Zenodo conceitual, para todas as versões:** <https://doi.org/10.5281/zenodo.23376579>
+- **Data de publicação:** 30/10/2026.
+- **Estado:** público, arquivado e imutável; não substitui o registro OSF do protocolo v1.0.

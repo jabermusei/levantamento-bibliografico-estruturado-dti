@@ -65,3 +65,20 @@ Este arquivo documenta submissões e depósitos do levantamento em serviços ext
 - **SHA-256 da evidência GitHub:** `4D0C9E779CB67F9C25E92A2DF16E45F12690BA90231C5F8EB24D112DBDF5E8D8`.
 - **Evidência da publicação Zenodo:** `evidencias_publicacao/2026-10-14_zenodo_release_v1.0_publicada.png`.
 - **SHA-256 da evidência Zenodo:** `7B8A34CCF21A723E013AB4FCB1963C7E3183E5EF38465481E9BC4B614C9666CA`.
+
+## Marco pré-síntese do Módulo 1 — versão 1.1
+
+- **Natureza:** marco de execução anterior à síntese transversal; o protocolo metodológico permanece na versão 1.0.
+- **Release GitHub:** `https://github.com/jabermusei/levantamento-bibliografico-estruturado-dti/releases/tag/v1.1`.
+- **Tag:** `v1.1`.
+- **Commit da tag:** `62fbecdd5da53b9b8fa8ba0e7bf2d75919985ac0`.
+- **Data e hora de publicação da release:** 2026-10-30 14:07:51 -03:00.
+- **Estado Zenodo:** `PUBLISHED` — release GitHub arquivada automaticamente.
+- **Registro Zenodo:** `23813425`.
+- **DOI Zenodo da versão 1.1:** `10.5281/zenodo.23813425`.
+- **URL DOI:** `https://doi.org/10.5281/zenodo.23813425`.
+- **DOI geral/conceitual de todas as versões:** `10.5281/zenodo.23376579`.
+- **Data e hora de criação exibida pela API pública do Zenodo:** 2026-10-30 14:07:55 -03:00.
+- **Arquivo arquivado:** `jabermusei/levantamento-bibliografico-estruturado-dti-v1.1.zip`.
+- **Conteúdo controlado:** manifesto do corpus, marco pré-síntese, critérios, planos, decisões, QAs e hashes; sem exportações brutas, planilhas, PDFs ou evidências de sessão.
+- **Relação com o OSF:** o registro OSF v1.0 permanece congelado e não foi alterado; o depósito 1.1 documenta a execução observada.

@@ -9,9 +9,9 @@
 - **Repositório GitHub:** <https://github.com/jabermusei/levantamento-bibliografico-estruturado-dti>
 - **Release GitHub v1.0:** <https://github.com/jabermusei/levantamento-bibliografico-estruturado-dti/releases/tag/v1.0>
 - **DOI Zenodo v1.0:** <https://doi.org/10.5281/zenodo.23376580>
+- **Release GitHub v1.1 — marco pré-síntese:** <https://github.com/jabermusei/levantamento-bibliografico-estruturado-dti/releases/tag/v1.1>
+- **DOI Zenodo v1.1:** <https://doi.org/10.5281/zenodo.23813425>
 - **DOI Zenodo de todas as versões:** <https://doi.org/10.5281/zenodo.23376579>
-
-O próximo depósito versionado será o marco pré-síntese v1.1. Até sua publicação, os identificadores definitivos da nova versão não devem ser inferidos nem antecipados.
 
 ## Regra de identidade
 
