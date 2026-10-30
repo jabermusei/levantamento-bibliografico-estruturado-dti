@@ -6,6 +6,14 @@
 
 **Observação:** na inspeção de abertura, a raiz do repositório documental não foi identificada como repositório Git. O versionamento deste levantamento é, portanto, documental: versões nomeadas, histórico cumulativo e preservação das versões superadas.
 
+## Marcos de execução do repositório
+
+| Versão | Data | Natureza | Descrição | Relação com o protocolo |
+|---|---|---|---|---|
+| 1.1 | 2026-10-30 | marco pré-síntese do Módulo 1 | Consolidação pública das buscas, triagem, seleção, cinco lotes de extração, QAs, hashes e manifesto dos 53 documentos únicos e da posição duplicada. | Não substitui nem altera o protocolo v1.0; registra a execução observada antes da síntese transversal. |
+
+O número 1.1 identifica a versão do repositório e do depósito de execução, não uma nova versão do protocolo metodológico.
+
 ## Depósito da versão 1.0
 
 - **OSF Registration:** <https://osf.io/xhkgt/overview>

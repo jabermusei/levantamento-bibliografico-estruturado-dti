@@ -84,3 +84,71 @@ As decisões são cumulativas. Não apagar entradas; se uma decisão for revista
 - **Arquivo derivado:** `2026-10-15_M1_TRIAGEM_TITULO_RESUMO_v1.0.xlsx`, 110.041 bytes, SHA-256 `DE5AC25C2A9C13FF213944C7738E9EECDC95061348044A53CF7C7EF3137D1CFE`.
 - **Documento público:** `02_modulo_1_revisoes_e_sinteses/02_triagem_instrumental/CRITERIOS_TRIAGEM_M1_v1.0.md`.
 - **Cautela:** esta etapa organiza a avaliação e não constitui seleção analítica definitiva nem revisão sistemática.
+
+## DEC-20261016-012 — Abertura da seleção de fontes do Módulo 1
+
+- **Data:** 16/10/2026.
+- **Entrada:** 94 registros classificados como `INCLUIR` na triagem instrumental validada, sendo 52 `NÚCLEO` e 42 `COMPLEMENTAR`.
+- **Decisão:** criar instrumento separado para obtenção, confirmação de identidade, definição da função na tese e decisão final de seleção.
+- **Controle:** inicializar todos os 94 candidatos como `PENDENTE`; a inclusão instrumental não será convertida automaticamente em seleção definitiva.
+- **Ordem operacional:** iniciar a obtenção e verificação pelos registros `NÚCLEO`; os registros `COMPLEMENTAR` permanecem candidatos e serão avaliados em ciclo posterior.
+- **Regra de acesso:** indisponibilidade imediata do texto integral não autoriza exclusão automática; a tentativa e o estado de obtenção devem ser registrados.
+- **Arquivo derivado:** `2026-10-16_M1_SELECAO_FONTES_v1.0.xlsx`, 87.156 bytes, SHA-256 `41A4B493AD4E64C4A51482701C764F844ABEB9EEA8382C69D2445E725CC8A35F`.
+- **Documento público:** `02_modulo_1_revisoes_e_sinteses/03_fontes_selecionadas/CRITERIOS_SELECAO_M1_v1.0.md`.
+
+## DEC-20261016-013 — Encerramento da triagem por título e resumo
+
+- **Data:** 16/10/2026.
+- **Entrada:** 131 registros únicos da base deduplicada.
+- **Decisão:** encerrar a triagem instrumental com 94 registros `INCLUIR`, 37 registros `EXCLUIR` e nenhum `PENDENTE`.
+- **Controle:** a decisão de triagem não equivale a seleção definitiva nem confirma acesso ao texto integral.
+- **Efeito:** os 94 registros incluídos seguem para a etapa separada de seleção de fontes.
+
+## DEC-20261018-014 — Encerramento da seleção inicial
+
+- **Data:** 18/10/2026.
+- **Entrada:** 94 candidatos provenientes da triagem.
+- **Decisão:** encerrar a seleção inicial com 54 posições `SELECIONADO`, 16 `EXCLUIR` e 24 `PENDENTE` exclusivamente por ausência de acesso legal ao texto integral neste ciclo.
+- **Controle:** os 24 registros sem acesso não são excluídos por indisponibilidade e permanecem como limite explícito do corpus acessível.
+- **Efeito:** iniciar a conferência integral dos textos obtidos e preservar separadamente a fila sem acesso.
+
+## DEC-20261019-015 — Encerramento da busca de acesso aos 24 pendentes
+
+- **Data:** 19/10/2026.
+- **Declaração do responsável:** toda a lista dos 24 registros pendentes foi pesquisada, sem obtenção legal dos textos integrais.
+- **Decisão:** encerrar novas tentativas indefinidas de obtenção neste ciclo e manter os 24 registros documentados como limite de acesso.
+- **Cautela:** o texto correto de `M1-WOS-001-060` permanece indisponível; uma cópia divergente foi isolada e não integra o corpus.
+
+## DEC-20261021-016 — Delimitação do corpus acessível e plano de cinco lotes
+
+- **Data:** 21/10/2026.
+- **Decisão:** adotar a nota de delimitação do corpus acessível e organizar as posições selecionadas em cinco lotes funcionais: estado do campo e agenda; base conceitual; mapeamento do campo; métodos e instrumentos; contextos comparativos.
+- **Campos:** preservar os campos de referência, método/corpus, definição ou tratamento de DTI, dimensões, achados, tensões, limites declarados e observados, sobreposição, uso proposto, localizadores e estado de validação.
+- **Controle:** `PROPOSTA_EXTRAIDA` não equivale a `VALIDADO_PESQUISADOR`; nenhuma extração avança automaticamente para N3 ou N4.
+- **Estatuto:** decisão operacional OA1 adotada pelo pesquisador.
+
+## DEC-20261026-017 — Correção de identidade e congelamento do corpus único
+
+- **Data:** 26/10/2026.
+- **Evidência:** `M1-WOS-001-051` e `M1-SCO-001-096` correspondem ao mesmo documento de Femenia-Serra e Neuhofer (2018).
+- **Decisão:** classificar `M1-WOS-001-051` como `DUPLICATA_DOCUMENTAL`, manter `M1-SCO-001-096` como representante e preservar a posição duplicada sem contagem adicional.
+- **Resultado:** as 54 posições selecionadas correspondem a 53 documentos únicos e uma duplicata documental.
+- **Controle:** a versão anterior do instrumento de seleção foi preservada no arquivo histórico da tese.
+
+## DEC-20261030-018 — Encerramento das extrações do Módulo 1
+
+- **Data:** 30/10/2026.
+- **Decisão:** encerrar os cinco lotes após aprovação expressa das extrações pelo pesquisador.
+- **Resultado:** 53 documentos únicos em `VALIDADO_PESQUISADOR` e uma posição em `DUPLICATA_DOCUMENTAL`; lotes encerrados com 10, 18, 14, 5 e 6 documentos únicos.
+- **QA:** os cinco controles confirmam alinhamento de IDs, preenchimento dos campos vigentes, ausência de estados residuais e ausência de erros de fórmula.
+- **Limite:** completude documental não implica homogeneidade metodológica, confirmação independente, causalidade, eficácia ou transferibilidade.
+- **Próxima etapa:** consolidar o marco público pré-síntese e somente depois iniciar a síntese transversal.
+
+## DEC-20261030-019 — Marco público pré-síntese do Módulo 1
+
+- **Data:** 30/10/2026.
+- **Decisão:** preparar a versão 1.1 do repositório como marco de execução anterior à síntese transversal, mantendo o protocolo metodológico na versão 1.0.
+- **Conteúdo público:** protocolo, strings, decisões, critérios, planos, QAs, manifesto do corpus e hashes dos arquivos privados pertinentes.
+- **Exclusões:** exportações brutas, PDFs, planilhas binárias, evidências de sessão, arquivos temporários e inspeções permanecem fora do repositório público.
+- **Controle:** o manifesto registra 53 documentos únicos e uma posição duplicada, sem produzir síntese argumentativa ou proposição da tese.
+- **Estatuto:** decisão operacional OA1; não altera problema, objetivos, teoria, método, corpus ou contribuição e não exige manifestação imediata do orientador formal.

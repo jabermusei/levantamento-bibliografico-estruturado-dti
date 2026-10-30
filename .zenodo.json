@@ -1,15 +1,15 @@
 {
-  "title": "Levantamento bibliográfico estruturado para construção e delimitação do corpus teórico e documental sobre Destinos Turísticos Inteligentes — Protocolo v1.0",
-  "description": "Registro auditável do protocolo v1.0 e da estrutura operacional do levantamento bibliográfico estruturado destinado à construção e delimitação do corpus teórico e documental de uma tese sobre Destinos Turísticos Inteligentes. O levantamento é prospectivo a partir de 14 de outubro de 2026, organiza-se em três módulos independentes e não constitui revisão sistemática nem resultado autônomo de revisão de literatura.",
+  "title": "Levantamento bibliográfico estruturado sobre Destinos Turísticos Inteligentes — marco pré-síntese do Módulo 1",
+  "description": "Marco auditável anterior à síntese transversal do Módulo 1. Mantém vigente o protocolo v1.0 registrado prospectivamente em 14 de outubro de 2026 e documenta a execução das buscas, triagem, seleção e extração de 53 documentos únicos, organizados em cinco lotes. O levantamento não constitui revisão sistemática nem resultado autônomo de revisão de literatura.",
   "upload_type": "other",
-  "publication_date": "2026-10-14",
+  "publication_date": "2026-10-30",
   "creators": [
     {
       "name": "Caetano da Silva Filho, Jaber",
       "affiliation": "Universidade Federal de Goiás (UFG)"
     }
   ],
-  "version": "1.0",
+  "version": "1.1",
   "language": "por",
   "access_right": "open",
   "license": "cc-by-4.0",
@@ -29,5 +29,5 @@
       "resource_type": "other"
     }
   ],
-  "notes": "Este depósito não deve ser descrito como revisão sistemática. A denominação oficial é levantamento bibliográfico estruturado para construção e delimitação do corpus teórico e documental."
+  "notes": "O protocolo metodológico permanece na versão 1.0. A versão 1.1 identifica o marco de execução do repositório antes da síntese transversal e não deve ser descrita como revisão sistemática."
 }

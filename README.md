@@ -3,13 +3,15 @@
 - **Início prospectivo:** 14 de outubro de 2026
 - **Localização oficial:** `04_METODOLOGIA_E_CORPUS/levantamento_bibliografico_estruturado_dti_2026`
 - **Protocolo vigente:** `00_protocolo/PROTOCOLO_v1.0.md`
-- **Estado:** protocolo v1.0 publicado e arquivado; `M1-SCO-001` e `M1-WOS-001` executadas e exportadas em 14/10/2026; 189 linhas combinadas e deduplicadas em 131 registros únicos; critérios e instrumento de triagem por título e resumo preparados em 15/10/2026, com todos os registros ainda `PENDENTE`.
+- **Estado:** protocolo v1.0 publicado e arquivado; `M1-SCO-001` e `M1-WOS-001` executadas e exportadas em 14/10/2026; 189 linhas combinadas e deduplicadas em 131 registros únicos; triagem por título e resumo concluída e validada em 16/10/2026, com 94 registros `INCLUIR`, 37 `EXCLUIR` e nenhum `PENDENTE`. A seleção inicial dos 94 candidatos foi concluída em 18/10/2026. Três blocos de conferência integral foram aprovados em 19 e 21/10/2026, delimitando inicialmente o corpus acessível v1 em 54 registros `SELECIONADO`, 16 `EXCLUIR` e 24 `PENDENTE` exclusivamente por ausência de acesso legal neste ciclo. A conferência de identidade de 26/10 confirmou 53 documentos únicos e uma duplicata documental. Os cinco lotes foram encerrados em 30/10/2026 com 53 documentos únicos validados e uma posição duplicada rastreável, sem dupla contagem. O texto correto de `M1-WOS-001-060` permanece entre os 24 indisponíveis, e a cópia divergente segue isolada em `_arquivos_divergentes`. Não houve mudança de corpus, adoção automática de método, campo ou instrumento nem avanço para N3/N4.
 - **OSF Registration:** <https://osf.io/xhkgt/overview>
 - **DOI:** <https://doi.org/10.17605/OSF.IO/XHKGT>
 - **Repositório GitHub:** <https://github.com/jabermusei/levantamento-bibliografico-estruturado-dti>
 - **Release GitHub v1.0:** <https://github.com/jabermusei/levantamento-bibliografico-estruturado-dti/releases/tag/v1.0>
 - **DOI Zenodo v1.0:** <https://doi.org/10.5281/zenodo.23376580>
 - **DOI Zenodo de todas as versões:** <https://doi.org/10.5281/zenodo.23376579>
+
+O próximo depósito versionado será o marco pré-síntese v1.1. Até sua publicação, os identificadores definitivos da nova versão não devem ser inferidos nem antecipados.
 
 ## Regra de identidade
 
@@ -28,6 +30,8 @@ Materiais, strings, matrizes, chats e resultados anteriores a 14/10/2026 podem s
 | `04_modulo_3_estados_unidos` | Literatura acadêmica e documentação pertinente ao caso Estados Unidos. |
 
 Cada módulo separa: planejamento/strings; exportações brutas; triagem instrumental; fontes selecionadas; análise documental.
+
+Os PDFs integrais do Módulo 1 devem permanecer na biblioteca privada da tese, em `09_REFERENCIAS_BIBLIOGRAFICAS/biblioteca/destinos_turisticos_inteligentes/revisoes_de_literatura`. O instrumento de seleção registra o caminho relativo e o hash SHA-256. Textos protegidos ou obtidos por acesso institucional não devem ser publicados no GitHub, Zenodo ou OSF público.
 
 ## Ordem de consulta
 
